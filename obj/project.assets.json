@@ -8,26 +8,28 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EG\\.nuget\\packages\\": {}
+    "C:\\Users\\mar20\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Code\\Semester 3\\BDSA0\\BDSA0.csproj",
+      "projectUniqueName": "d:\\BDSA0\\BDSA0.csproj",
       "projectName": "BDSA0",
-      "projectPath": "e:\\Code\\Semester 3\\BDSA0\\BDSA0.csproj",
-      "packagesPath": "C:\\Users\\EG\\.nuget\\packages\\",
-      "outputPath": "e:\\Code\\Semester 3\\BDSA0\\obj\\",
+      "projectPath": "d:\\BDSA0\\BDSA0.csproj",
+      "packagesPath": "C:\\Users\\mar20\\.nuget\\packages\\",
+      "outputPath": "d:\\BDSA0\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\EG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mar20\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

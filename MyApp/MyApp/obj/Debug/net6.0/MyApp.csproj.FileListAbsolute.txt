@@ -13,3 +13,18 @@ E:\Code\Semester 3\BDSA0\MyApp\MyApp\obj\Debug\net6.0\refint\MyApp.dll
 E:\Code\Semester 3\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.pdb
 E:\Code\Semester 3\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
 E:\Code\Semester 3\BDSA0\MyApp\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+D:\BDSA0\MyApp\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\BDSA0\MyApp\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\BDSA0\MyApp\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\BDSA0\MyApp\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\BDSA0\MyApp\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\BDSA0\MyApp\MyApp\obj\Debug\net6.0\ref\MyApp.dll
