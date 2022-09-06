@@ -13,5 +13,21 @@ public class IsLeapYearTests
 
         // Assert
         Assert.True(result);
+
+        // Act
+        result = leapYear.IntIsLeapYear(1999);
+
+        // Assert
+        Assert.False(result);
+    }
+
+    [Fact]
+    public void User_Input_Is_Leap_Year() 
+    {
+        // Arrange
+
+        // Act
+
+        // Assert
     }
 }
