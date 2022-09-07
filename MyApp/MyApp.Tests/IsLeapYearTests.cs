@@ -20,14 +20,4 @@ public class IsLeapYearTests
         // Assert
         Assert.False(result);
     }
-
-    [Fact]
-    public void User_Input_Is_Leap_Year() 
-    {
-        // Arrange
-
-        // Act
-
-        // Assert
-    }
 }
