@@ -2,11 +2,16 @@
     static void Main(string[] args) 
     {
         IsLeapYear isLeapYear = new IsLeapYear();
-        int year = Convert.ToInt32(Console.ReadLine());
+        int year = 0;
+        try {
+            year = Convert.ToInt32(Console.ReadLine());
+        } catch(Exception e) {
+            Console.WriteLine(e.Message);
+            return;
+        }
         if(isLeapYear.IntIsLeapYear(year)) {
             Console.WriteLine("Yay");
-        } else 
-        { 
+        } else { 
             Console.WriteLine("Nay");
         } 
     }
