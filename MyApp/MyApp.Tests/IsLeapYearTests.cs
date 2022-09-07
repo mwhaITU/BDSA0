@@ -12,7 +12,7 @@ public class IsLeapYearTests
         var result = leapYear.IntIsLeapYear(2024);
 
         // Assert
-        Assert.True(result);
+        result.Should().Be(true);
     }
 
     [Fact]
@@ -25,7 +25,7 @@ public class IsLeapYearTests
         var result = leapYear.IntIsLeapYear(1800);
 
         // Assert
-        Assert.False(result);
+        result.Should().Be(false);
     }
 
     [Fact]
@@ -38,7 +38,7 @@ public class IsLeapYearTests
         var result = leapYear.IntIsLeapYear(2000);
 
         // Assert
-        Assert.True(result);
+        result.Should().Be(true);
     }
 
     [Fact]
@@ -50,6 +50,6 @@ public class IsLeapYearTests
         var result = leapYear.IntIsLeapYear(1200);
 
         // Assert
-        Assert.False(result);
+        result.Should().Be(false);
     }
 }
