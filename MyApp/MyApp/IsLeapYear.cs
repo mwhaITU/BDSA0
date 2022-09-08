@@ -7,18 +7,18 @@ public class IsLeapYear
             return false;
         }
         try {
-            if(year%400 == 0) {
-                return true;
-            }
-            if(year%100 == 0) {
+            if(year%4 != 0) {
                 return false;
             }
-            if(year%4 == 0) {
+            else if(year%100 != 0) {
                 return true;
+            }
+            else if(year%400 != 0) {
+                return false;
             }
         } catch(Exception e) {
             Console.WriteLine(e.Message);
         }
-        return false;
+        return true;
    }
 }
